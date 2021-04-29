@@ -1,0 +1,3 @@
+include ':TestRecatangle2'
+include ':app'
+rootProject.name = "Challenge Qns 2"
